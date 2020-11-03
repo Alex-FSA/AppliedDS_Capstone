@@ -1,1 +1,1 @@
-# AppliedDS_Capstone
+# Coursera_Capstone
